@@ -1,8 +1,3 @@
-% Introduction to Object Oriented Programming (in Python)
-% [Benjamin S. Skrainka](skrainka@galvanize.com)
-% February 8, 2016
-
-
 ## Objectives
 
 Today's objectives:
