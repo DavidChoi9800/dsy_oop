@@ -1,4 +1,0 @@
-.PHONY: test
-test:
-	py.test test_blackjack.py
-	py.test --pep8 test_blackjack.py
